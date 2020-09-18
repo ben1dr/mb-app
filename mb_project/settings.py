@@ -25,7 +25,7 @@ SECRET_KEY = 'u2cdlk0cb$#3gjb_u!u!3dk19vtufz+m*13wk2uu7f4d#nbme('
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
